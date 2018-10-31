@@ -33,7 +33,7 @@
         @include heading-font;
         &.active,
         &:hover {
-          color: $primary;
+          color: $primary !important;
         }
       }
     }
