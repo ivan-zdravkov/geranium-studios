@@ -7,7 +7,7 @@
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: $white;
     border: 0;
     background-color: $primary;
     @include heading-font;
@@ -26,10 +26,11 @@
     .nav-item {
       .nav-link {
         font-size: 90%;
-        font-weight: 400;
+        font-weight: 600;
+        text-shadow: 1px 1px 10px $white;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: white;
+        color: $secondary;
         @include heading-font;
         &.active,
         &:hover {
