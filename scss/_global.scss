@@ -89,12 +89,12 @@ section {
 
 // Highlight color customization
 ::-moz-selection {
-  background: $primary;
+  background: $secondary-muted;
   text-shadow: none;
 }
 
 ::selection {
-  background: $primary;
+  background: $secondary-muted;
   text-shadow: none;
 }
 
@@ -104,4 +104,11 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+hr {
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+  width: 5%;
+  border: 1px solid;
 }
