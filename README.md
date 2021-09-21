@@ -1,6 +1,6 @@
 # 3S SOT Sliven Website
 
-[3S SOT Sliven Website](https://3ssotssliven.com)
+[3S SOT Sliven Website](https://3ssotsliven.com)
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
