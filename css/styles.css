@@ -1,0 +1,31 @@
+/* Styling for the masthead */
+.masthead {
+  background-image: url('../img/bg.jpg') !important;
+  opacity: 0.9;
+}
+.navbar-nav .nav-item .nav-link {
+    color: #0b2b50 !important;
+}
+
+/* Styling for the certificates */
+div.certificate {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 40px 0;
+}
+div.caption {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+@media(min-width:768px) {
+    .intro-heading {
+        font-size: 72px !important;
+        word-spacing: 30px;
+    }
+}
+@media(max-width: 1200px) {
+    .intro-lead-in {
+        margin-bottom: 75px !important;
+    }
+}
