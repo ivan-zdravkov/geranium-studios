@@ -1,6 +1,6 @@
-# 3S SOT Sliven Website
+# Geranium Studios Website
 
-[3S SOT Sliven Website](https://3ssotsliven.com)
+[Geranium Studios Website](https://geraniumstudios.com)
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
